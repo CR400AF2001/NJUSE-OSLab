@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "tty.h": "c",
+        "console.h": "c",
+        "string": "c"
+    }
+}
